@@ -1,2 +1,1 @@
-Nama: Yusuf Zaenul Mustofa
-NIM : 24060122120021
+Yusuf Zaenul Mustofa 24060122120021
