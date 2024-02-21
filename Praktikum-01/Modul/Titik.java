@@ -13,7 +13,7 @@ public class Titik{
     static int counterTitik; 
 
     /*Konstruktor*/
-    Titik(int a, int o){
+    Titik(double a, double o){
         counterTitik++;
         absis = a;
         ordinat = o;
