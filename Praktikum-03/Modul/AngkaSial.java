@@ -1,6 +1,8 @@
 /*
  * File      : AngkaSial.java
  * Deskripsi : Program penggunaan exception buatan sendiri dan pengenalan klausa 'throw' dan 'throws'
+ * Nama/NIM  : Yusuf Zaenul Mustofa/24060122120021
+ * Tanggal   : 6 Maret 2024
  */
 public class AngkaSial {
     public void cobaAngka(int angka) throws AngkaSialException{

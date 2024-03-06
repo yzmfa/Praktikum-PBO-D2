@@ -1,6 +1,8 @@
 /*
  * File      : ExceptionOnArray.java
  * Deskripsi : Program penggunaan eksepsi menggunakan class librari Java
+ * Nama/NIM  : Yusuf Zaenul Mustofa/24060122120021
+ * Tanggal   : 6 Maret 2024
  */
 public class ExceptionOnArray {
     public static void main(String[] args) {
